@@ -57,7 +57,7 @@ export default function CardStats({
 }
 
 CardStats.defaultProps = {
-  statSubtitle: "Traffic",
+  statSubtitle: "Orders in transit",
   statTitle: "350,897",
   statArrow: "up",
   statPercent: "3.48",

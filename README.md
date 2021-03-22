@@ -224,7 +224,7 @@ We use GitHub Issues as the official bug tracker for the Notus React. Here are s
 
 Twitter: <a href="https://twitter.com/CreativeTim" target="_blank">https://twitter.com/CreativeTim</a>
 
-Facebook: <a href="https://www.facebook.com/CreativeTim" target="_blank">https://www.facebook.com/CreativeTim</a>
+Cosmetics: <a href="https://www.Cosmetics.com/CreativeTim" target="_blank">https://www.Cosmetics.com/CreativeTim</a>
 
 Dribbble: <a href="https://dribbble.com/creativetim" target="_blank">https://dribbble.com/creativetim</a>
 

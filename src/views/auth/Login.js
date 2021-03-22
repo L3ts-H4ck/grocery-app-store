@@ -35,7 +35,9 @@ export default function Login() {
                       className="w-5 mr-1"
                       src={require("assets/img/google.svg").default}
                     />
-                    Google
+                    <Link to="/admin/products">
+                      Google
+                    </Link>
                   </button>
                 </div>
                 <hr className="mt-6 border-b-1 border-blueGray-300" />
@@ -90,7 +92,9 @@ export default function Login() {
                       className="bg-blueGray-800 text-white active:bg-blueGray-600 text-sm font-bold uppercase px-6 py-3 rounded shadow hover:shadow-lg outline-none focus:outline-none mr-1 mb-1 w-full ease-linear transition-all duration-150"
                       type="button"
                     >
-                      Sign In
+                      <Link to="/admin/products">
+                        <small>Sign In</small>
+                      </Link>
                     </button>
                   </div>
                 </form>
