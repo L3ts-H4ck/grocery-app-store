@@ -18,17 +18,7 @@ export default function Index() {
                 A beautiful solution to manage your delivery.
               </h2>
               <p className="mt-4 text-lg leading-relaxed text-blueGray-500">
-                Notus React is Free and Open Source. It does not change any of
-                the CSS from{" "}
-                <a
-                  href="https://tailwindcss.com/?ref=creativetim"
-                  className="text-blueGray-600"
-                  target="_blank"
-                >
-                  Tailwind CSS
-                </a>
-                . It features multiple HTML elements and it comes with dynamic
-                components for ReactJS, Vue and Angular.
+                Take the best of life and add it to your delivery cart without fear of losing track.
               </p>
               <div className="mt-2">
                 <img
